@@ -1,0 +1,18 @@
+BioArena-Prototype/
+├─ README.md
+├─ Assets/
+│  ├─ Scripts/
+│  │  ├─ PlayerController.cs
+│  │  ├─ BioManager.cs
+│  │  ├─ HapticGlove.cs
+│  │  ├─ HealthSystem.cs
+│  │  ├─ ArenaManager.cs
+│  │  ├─ UI/VitalsUI.cs
+│  │  └─ Networking/NetworkHooks.cs   (placeholder for Mirror integration)
+│  ├─ Scenes/
+│  │  └─ Main.unity
+│  └─ Prefabs/
+│     ├─ Player.prefab
+│     └─ Arena.prefab
+└─ Docs/
+   └─ HardwareIntegration.md
